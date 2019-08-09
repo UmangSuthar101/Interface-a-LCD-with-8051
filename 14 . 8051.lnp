@@ -1,0 +1,3 @@
+".\Objects\14 . 8051.obj" 
+TO ".\Objects\14 . 8051" 
+PRINT(".\Listings\14 . 8051.m51")
